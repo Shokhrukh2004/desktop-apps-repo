@@ -1,0 +1,3 @@
+[submodule "library-system-app"]
+	path = library-system-app
+	url = https://github.com/Shokhrukh2004/library-system-app.git
